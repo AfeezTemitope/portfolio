@@ -26,4 +26,11 @@
     text-align: center;
     color: green;
   }
+
+  @media screen and (max-width: 768px) {
+    .github-container{
+      font-size: 10px;
+    }
+    
+  }
   

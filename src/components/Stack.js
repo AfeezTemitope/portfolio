@@ -14,15 +14,6 @@ const Stack =()=>{
           <FontAwesomeIcon icon={faPhp} size="8x" className="icon" title="PHP" />
           <FontAwesomeIcon icon={faReact} size="8x" className="icon" title="react" />
         </div>
-        <div className='icon-container'>
-            <h3>HTML5</h3>
-            <h3>CSS3</h3>
-            <h3>JavaScript</h3>
-            <h3>Python</h3>
-            <h3>Java</h3>
-            <h3>PHP</h3>
-            <h3>React</h3>
-        </div>
       </div>
     )
 }

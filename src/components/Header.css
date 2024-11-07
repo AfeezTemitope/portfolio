@@ -3,3 +3,9 @@
     padding: 10px;
     border: 1px solid white;
 }
+
+@media screen and (max-width: 768px) {
+    .header{
+        padding: 0px;
+    }
+}

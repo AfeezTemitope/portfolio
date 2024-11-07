@@ -1,4 +1,4 @@
-import { faEnvelope, faMobilePhone, faPhoneAlt } from '@fortawesome/free-solid-svg-icons'
+import { faEnvelope, faMobilePhone } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import './Intro.css'
 const Intro =()=>{

@@ -8,7 +8,7 @@ const Github = () => {
     const [repos, setRepo] = useState([]);
     const [commits, setCommit] = useState(0);
     const token = process.env.REACT_APP_GITHUB_TOKEN;
-    console.log(process.env.REACT_APP_GITHUB_TOKEN)
+    
   
 
     useEffect(() => {
