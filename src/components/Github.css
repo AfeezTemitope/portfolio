@@ -1,0 +1,29 @@
+.github-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    font-size: 25px;
+    gap: 40px;
+}
+
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    gap: 5px;
+  }
+  
+  .list li {
+    justify-content: center;
+    align-items: center;
+    flex: 0 1 calc(10% - 10px); 
+    list-style-type: none;
+    background-color: #f0f0f0;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    color: green;
+  }
+  

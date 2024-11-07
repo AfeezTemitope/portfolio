@@ -1,0 +1,25 @@
+.Intro-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* width: 100%; */
+    margin: 10px;
+    font-size: 25px;
+}
+
+.about-me{
+    width: 50%;
+    text-align: right;
+    justify-content: center;
+}
+
+.image-of-me{
+    width: 50%;
+    box-sizing: border-box;
+    box-shadow: rgb(red, green, blue);
+    
+}
+.my-icon{
+    width: 50%;
+    border: 1px solid white;
+}
